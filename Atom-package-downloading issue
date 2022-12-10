@@ -1,0 +1,7 @@
+If you are a windows 10 user and you face problem on downloading packages then this might help:
+After installing Atom check in packages if it is searching packages name or not ,if not then follow below steps:
+ File--Exit
+ start atom again and search packages which you want to install
+ For eg-"emmet" is the package you want search 
+ File--settings--install --type"emmet" --install
+ The end.
